@@ -1,4 +1,5 @@
 require 'rails_helper'
+require 'random_data'
 
 RSpec.describe PostsController, type: :controller do
   
